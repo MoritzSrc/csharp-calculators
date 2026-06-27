@@ -32,5 +32,5 @@ It includes different versions of console-based calculators, from basic arithmet
 
 ---
 
-##Notes
+## Notes
 - This project is for learning purposes
